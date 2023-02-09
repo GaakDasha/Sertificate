@@ -1,2 +1,2 @@
-# Sertificate
+# Сertificate
 Сертификаты о прохождении курсов
